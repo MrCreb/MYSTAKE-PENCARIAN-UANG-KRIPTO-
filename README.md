@@ -15,6 +15,7 @@ UI Luar Biasa.
 - VT: ```https://www.virustotal.com/gui/file-anal...k2NDgwMQ==```
 
 # Sarat
+- memerlukan akses Infinity untuk mendapatkan Kunci Otentikasi agar dapat menjalankan tols
 - langanan Infinity ( 34.99€ )
 
 - Beli Infinity: ```https://cracked.io/upgrade.php```
